@@ -1,0 +1,26 @@
+.contenedor-tareas{
+    width: 600px;
+    height: 60px;
+ 
+  background-color: #a5a5c2;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 5px;
+  border: 2px solid #040000;
+}
+
+.tarea-texto{
+  width: 100%;
+  height: 100%;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  overflow-wrap: anywhere;
+}
+
+.icono-eliminar {
+  width: 25px;
+  height: 25px;
+  margin: 5px;
+}
